@@ -40,12 +40,3 @@ I initially struggled with setting up and using the Serial Monitor correctly, es
 ## Improvements 
 
 * Add filtering to reduce noise or flickering
-
-## Images
-
-[Add your circuit images here]
-
-## Code
-
-[View Arduino Code]
-(https://github.com/Charla1an/Arduino-Uno-Captain-s-Logs-/blob/main/PotentiometerBrightnessController/code.ino)

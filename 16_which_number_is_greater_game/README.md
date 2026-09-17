@@ -24,7 +24,7 @@ The displays are driven through two daisy-chained 74HC595 shift registers. Rathe
 - **Random Number Generation:** New rounds generated using randomly selected digit pairs.
 
 
-# Challenges 
+## Challenges 
 The trickiest part was wiring and debugging the shift registers. Initially, only one display worked correctly — the second either stayed blank or showed wrong segments. Understanding how data actually propagates through daisy-chained devices required some experimentation. The key realization was that the first byte shifted out travels all the way to the far register, while the second byte stays in the nearer one. Once that clicked, the rest of the debugging became much more manageable.
 Verifying wiring, segment mappings, and common cathode connections also took careful, methodical checking before everything behaved consistently.
 One more subtle issue: several logic bugs turned out to be caused by accidentally using assignment (`=`) where comparison (`==`) was needed. A small distinction, but a reminder of how much a single character can matter.
@@ -36,6 +36,8 @@ One more subtle issue: several logic bugs turned out to be caused by accidentall
 - Refactor display handling into dedicated functions
 - Add software debouncing for more reliable button input
 
+## Media
 
----
-**Circuit:** [Image] [**Code**](https://github.com/Charla1an/ArduinoUnoLearningLogs/blob/main/16_which_number_is_greater_game/code.ino)
+![Project 16 hardware setup](images/project-setup.jpg)
+
+**Demonstration:** [Watch the project](video/project-demo.mp4)

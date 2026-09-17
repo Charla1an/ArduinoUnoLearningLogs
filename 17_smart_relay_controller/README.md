@@ -71,3 +71,9 @@ The goal wasn't just to make a relay click. It was to understand how a microcont
 
 ## Repository Notes
 Built with PlatformIO, written in C++. Focuses on safe interfacing between a microcontroller and an inductive load while introducing transistor switching and flyback protection.
+
+## Media
+
+![Project 17 hardware setup](images/project-setup.jpg)
+
+**Demonstration:** [Watch the project demo](video/project-demo.mp4)

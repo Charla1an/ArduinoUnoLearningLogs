@@ -29,8 +29,3 @@ The other challenge was wrapping my head around how a lookup table could directl
 * Add support for hexadecimal digits (A–F)
 * Use a shift register to reduce pin usage
 * Expand to a multi-digit display
-
----
-
-**Circuit:** [Image]  
-[**Code**](https://github.com/Charla1an/ArduinoUnoLearningLogs/blob/main/15_single_digit_7-segment%20_display_counter/code.ino)

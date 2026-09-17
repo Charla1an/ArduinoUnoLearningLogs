@@ -39,18 +39,6 @@ The trickiest part was making sure the potentiometer only affected the active ch
 ## Planned Improvements
 
 * Smoother transitions between colours
-
 * A reset/off button to clear the LED
-
 * Serial Monitor output showing live RGB values
-
 * EEPROM support to save favourite colour combinations
-
-
-## Images
-
-[Add your circuit images here]
-
-## Code
-
-[Code](https://github.com/Charla1an/ArduinoUnoLearningLogs/blob/main/06_rgb_intensity_controller/code.ino)

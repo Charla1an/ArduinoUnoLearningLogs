@@ -41,11 +41,3 @@ Using these functions, I manually wrote all 16 binary combinations for the 4 LED
 * Replace repetitive manual logic with loops
 * Make the program more compact and scalable
 * Improve overall code structure and readability
-
-## Images
-
-(add images later)
-
-## Code
-
-(See `code.ino` in this folder)

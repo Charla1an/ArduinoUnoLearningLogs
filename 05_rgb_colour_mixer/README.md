@@ -1,4 +1,4 @@
-# RGB Colour Controller
+# RGB Colour Mixer
 
 ## Overview
 
@@ -40,11 +40,3 @@ Working with a common anode RGB LED was initially confusing, since brightness va
 * Add button or potentiometer control
 * Add more preset colours
 * Create a simple menu system for colour selection
-
-## Images
-
-[Add your circuit images here]
-
-## Code
-
-[code](https://github.com/Charla1an/ArduinoUnoLearningLogs/blob/main/RGBColourMixer/code.ino)

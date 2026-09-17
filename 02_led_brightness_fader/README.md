@@ -36,9 +36,3 @@ Understanding the syntax of `for` loops was slightly confusing at first, especia
 ## Improvements (Future Version)
 
 * Allow user control of fade speed using input
-
-## Images
-
-## Code
-
-[View Arduino Code] (https://github.com/Charla1an/Arduino-Uno-Captain-s-Logs-/blob/main/LEDbrightnessFader/code.ino)

@@ -7,6 +7,7 @@ bool butS; //button current state
 bool butP=HIGH; //button previos state
 
 bool relayS=false; //relay state
+
 void setup() {
   pinMode(RELAY_PIN,OUTPUT);
   pinMode(BUTTON_PIN,INPUT_PULLUP);

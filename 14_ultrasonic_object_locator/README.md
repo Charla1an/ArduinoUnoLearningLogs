@@ -32,8 +32,3 @@ Rather than pushing through with something I didn't fully understand, I scaled b
 * Implement non-blocking scanning using `millis()`.
 * Track a moving target by searching around its last known position.
 * Display scan results on an LCD.
-
----
-
-**Circuit:** [Image]  
-**[Code](https://github.com/Charla1an/ArduinoUnoLearningLogs/blob/main/14_ultrasonic_object_locator/code.ino)** 
