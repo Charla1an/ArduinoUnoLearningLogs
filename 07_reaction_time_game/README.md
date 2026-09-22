@@ -15,7 +15,7 @@ This is a reaction timer game built with an Arduino Uno, an LED, and a push butt
 ## Components Used
 
 * Arduino Uno R3
-* LED
+* 3 LEDs
 * Push Button
 * Resistors
 * Breadboard

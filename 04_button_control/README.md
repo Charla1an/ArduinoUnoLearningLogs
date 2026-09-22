@@ -1,4 +1,4 @@
-# Project 4 — Button Control
+# Button Control
 
 ## Overview
 Project 4 is the first digital-input project: two small programs where a pushbutton controls an LED. Version 4A is a direct ON/OFF switch, version 4B is a toggle where each press flips the LED's state. It's the point where the Arduino moves from just running outputs to reacting to something happening in the real world.

@@ -29,7 +29,7 @@ void setup() {
   pinMode(led1,OUTPUT);
   pinMode(led2,OUTPUT);
   pinMode(led3,OUTPUT);
-  randomSeed(A5);
+  randomSeed(analogRead(A5));
   randomTime=random(3000,10000);
   blink(led1);
   blink(led2);

@@ -19,7 +19,6 @@ I built this to deepen my understanding of timing systems, state-based behavior,
 * Red LED
 * Yellow LED
 * Green LED
-* Push Button
 * Resistors
 * Breadboard
 * Jumper Wires
