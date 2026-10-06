@@ -72,7 +72,11 @@ The goal wasn't just to make a relay click. It was to understand how a microcont
 ## Repository Notes
 Built with PlatformIO, written in C++. Focuses on safe interfacing between a microcontroller and an inductive load while introducing transistor switching and flyback protection.
 
-## Media
+## PCB Version
+
+I later designed a KiCad PCB for this project. It is documented in [`pcb/`](pcb/README.md).
+
+The PCB is a design only. It passes KiCad's ERC and DRC checks, but it has not been fabricated, assembled or tested. It also uses an Arduino Nano V3.x in place of the Uno R3 used in this version.
 
 ![Project 17 hardware setup](images/project-setup.jpg)
 
